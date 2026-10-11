@@ -2095457,9 +2095457,7 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "board_disposition": "Substantiated (Command Discipline A)"
   },
   {
     "officer_id": "946365",
@@ -2095467,9 +2095465,7 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Question",
-    "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "board_disposition": "Substantiated (Command Discipline A)"
   },
   {
     "officer_id": "949582",
@@ -2098194,8 +2098190,8 @@
     "fado_type": "Force",
     "allegation": "Gun pointed",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Closed: Retained, with discipline",
+    "penalty_desc": "Forfeit vacation 2 days"
   },
   {
     "officer_id": "948148",
