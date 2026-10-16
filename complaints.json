@@ -2103531,7 +2103531,9 @@
     "complaint_date": "2025-04-17",
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of force (verbal or physical)",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "No Disciplinary Action-DUP",
+    "penalty_desc": "No penalty"
   },
   {
     "officer_id": "948842",
