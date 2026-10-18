@@ -2078877,7 +2078877,9 @@
     "complaint_date": "2025-03-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Search of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "962463",
@@ -2078893,7 +2078895,9 @@
     "complaint_date": "2025-03-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Search of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "972823",
@@ -2078901,7 +2078905,9 @@
     "complaint_date": "2025-03-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Search of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "973116",
@@ -2078909,7 +2078915,9 @@
     "complaint_date": "2025-03-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Search of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "977357",
@@ -2078933,7 +2078941,9 @@
     "complaint_date": "2025-03-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Search of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "978972",
@@ -2079045,7 +2079055,9 @@
     "complaint_date": "2025-02-20",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to Explain",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "957227",
@@ -2079069,7 +2079081,9 @@
     "complaint_date": "2025-02-20",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to Explain",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "967774",
@@ -2087028,7 +2087042,9 @@
     "complaint_date": "2025-03-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 1 day) / Formalized Training"
   },
   {
     "officer_id": "970743",
@@ -2087036,7 +2087052,9 @@
     "complaint_date": "2025-03-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Question",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 1 day) / Formalized Training"
   },
   {
     "officer_id": "970743",
@@ -2087052,7 +2087070,9 @@
     "complaint_date": "2025-03-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 1 day) / Formalized Training"
   },
   {
     "officer_id": "970743",
@@ -2087992,7 +2088012,9 @@
     "complaint_date": "2025-03-30",
     "fado_type": "Abuse of Authority",
     "allegation": "Unlawful Summons",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 10 days) / Formalized Training"
   },
   {
     "officer_id": "956248",
@@ -2088388,7 +2088410,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "967457",
@@ -2088396,7 +2088420,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "967457",
@@ -2088404,7 +2088430,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "967457",
@@ -2088412,7 +2088440,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "967457",
@@ -2088452,7 +2088482,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "972459",
@@ -2088460,7 +2088492,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "972459",
@@ -2088468,7 +2088502,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "972459",
@@ -2088476,7 +2088512,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "972459",
@@ -2088500,7 +2088538,9 @@
     "complaint_date": "2025-04-01",
     "fado_type": "Discourtesy",
     "allegation": "Word",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.13 days)"
   },
   {
     "officer_id": "972459",
@@ -2089721,7 +2089761,9 @@
     "complaint_date": "2025-04-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 3 days) / Formalized Training"
   },
   {
     "officer_id": "965958",
@@ -2089729,7 +2089771,9 @@
     "complaint_date": "2025-04-03",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 3 days) / Formalized Training"
   },
   {
     "officer_id": "965958",
@@ -2090815,7 +2090859,9 @@
     "complaint_date": "2025-04-04",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished)"
   },
   {
     "officer_id": "960837",
@@ -2090855,7 +2090901,9 @@
     "complaint_date": "2025-04-04",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.25 days) / Instructions"
   },
   {
     "officer_id": "977915",
@@ -2092097,7 +2092145,9 @@
     "complaint_date": "2025-04-04",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished)"
   },
   {
     "officer_id": "948300",
@@ -2092257,7 +2092307,9 @@
     "complaint_date": "2025-03-28",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.25 days)"
   },
   {
     "officer_id": "973687",
@@ -2092281,7 +2092333,9 @@
     "complaint_date": "2025-03-28",
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to process civilian complaint",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Formalized Training)"
   },
   {
     "officer_id": "979106",
@@ -2092289,7 +2092343,9 @@
     "complaint_date": "2025-03-28",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Formalized Training)"
   },
   {
     "officer_id": "979106",
@@ -2092297,7 +2092353,9 @@
     "complaint_date": "2025-03-28",
     "fado_type": "Abuse of Authority",
     "allegation": "Search (of person)",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Formalized Training)"
   },
   {
     "officer_id": "979106",
@@ -2092729,7 +2092787,9 @@
     "complaint_date": "2025-04-07",
     "fado_type": "Discourtesy",
     "allegation": "Word",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 1 day) / Instructions"
   },
   {
     "officer_id": "965102",
@@ -2093993,7 +2094053,9 @@
     "complaint_date": "2025-03-29",
     "fado_type": "Force",
     "allegation": "Physical force",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 5 days) / Formalized Training"
   },
   {
     "officer_id": "952063",
@@ -2097797,7 +2097859,9 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Discourtesy",
     "allegation": "Word",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished)"
   },
   {
     "officer_id": "979343",
@@ -2098587,7 +2098651,9 @@
     "complaint_date": "2025-04-07",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.25 days)"
   },
   {
     "officer_id": "960358",
@@ -2099019,7 +2099085,9 @@
     "complaint_date": "2025-04-24",
     "fado_type": "Discourtesy",
     "allegation": "Word",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished) / Instructions"
   },
   {
     "officer_id": "944609",
@@ -2158991,6 +2159059,14 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "970100",
+    "complaint_id": "202605175",
+    "complaint_date": "2026-04-28",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Other",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "971136",
     "complaint_id": "202605182",
     "complaint_date": "2026-05-02",
@@ -2161220,6 +2161296,14 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "976084",
+    "complaint_id": "202605886",
+    "complaint_date": "2026-06-13",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "977135",
@@ -2164050,6 +2164134,46 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "969571",
+    "complaint_id": "202607053",
+    "complaint_date": "2026-07-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Failure to provide RTKA card",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969571",
+    "complaint_id": "202607053",
+    "complaint_date": "2026-07-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Refusal to provide name",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969571",
+    "complaint_id": "202607053",
+    "complaint_date": "2026-07-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969571",
+    "complaint_id": "202607053",
+    "complaint_date": "2026-07-12",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969571",
+    "complaint_id": "202607053",
+    "complaint_date": "2026-07-12",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "966501",
     "complaint_id": "202607062",
     "complaint_date": "2026-07-13",
@@ -2164602,6 +2164726,14 @@
     "board_disposition": "Complainant Unavailable"
   },
   {
+    "officer_id": "952575",
+    "complaint_id": "202607276",
+    "complaint_date": "2026-06-25",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
     "officer_id": "966821",
     "complaint_id": "202607280",
     "complaint_date": "2026-06-30",
@@ -2164970,6 +2165102,78 @@
     "board_disposition": "Complainant Unavailable"
   },
   {
+    "officer_id": "962965",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "962965",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "962965",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "973508",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "973508",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "973508",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975390",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975390",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975390",
+    "complaint_id": "202607425",
+    "complaint_date": "2026-07-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "953671",
     "complaint_id": "202607430",
     "complaint_date": "2026-07-02",
@@ -2165130,6 +2165334,86 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "979510",
+    "complaint_id": "202607515",
+    "complaint_date": "2026-07-03",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of force (verbal or physical)",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "979510",
+    "complaint_id": "202607515",
+    "complaint_date": "2026-07-03",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of force (verbal or physical)",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "979510",
+    "complaint_id": "202607515",
+    "complaint_date": "2026-07-03",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "982843",
+    "complaint_id": "202607515",
+    "complaint_date": "2026-07-03",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "952869",
+    "complaint_id": "202607523",
+    "complaint_date": "2026-07-23",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "952869",
+    "complaint_id": "202607523",
+    "complaint_date": "2026-07-23",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "952869",
+    "complaint_id": "202607523",
+    "complaint_date": "2026-07-23",
+    "fado_type": "Offensive Language",
+    "allegation": "Other",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "976822",
+    "complaint_id": "202607524",
+    "complaint_date": "2026-07-04",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "938122",
+    "complaint_id": "202607529",
+    "complaint_date": "2026-07-06",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Alleged Victim Unavailable"
+  },
+  {
+    "officer_id": "969604",
+    "complaint_id": "202607529",
+    "complaint_date": "2026-07-06",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Alleged Victim Unavailable"
+  },
+  {
     "officer_id": "976518",
     "complaint_id": "202607536",
     "complaint_date": "2026-07-05",
@@ -2165263,6 +2165547,14 @@
     "fado_type": "Force",
     "allegation": "Hit against inanimate object",
     "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "974878",
+    "complaint_id": "202607573",
+    "complaint_date": "2026-07-__",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
   },
   {
     "officer_id": "978291",
@@ -2165761,6 +2166053,22 @@
     "board_disposition": "Complaint Withdrawn"
   },
   {
+    "officer_id": "984678",
+    "complaint_id": "202607843",
+    "complaint_date": "2026-06-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "984800",
+    "complaint_id": "202607843",
+    "complaint_date": "2026-06-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "978796",
     "complaint_id": "202607852",
     "fado_type": "Abuse of Authority",
@@ -2165789,6 +2166097,22 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "980095",
+    "complaint_id": "202607864",
+    "complaint_date": "2026-07-29",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "980095",
+    "complaint_id": "202607864",
+    "complaint_date": "2026-07-29",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
   },
   {
     "officer_id": "975355",
@@ -2165829,6 +2166153,14 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "970405",
+    "complaint_id": "202607896",
+    "complaint_date": "2026-07-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Other",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "978403",
@@ -2165927,6 +2166259,14 @@
     "board_disposition": "Complainant Uncooperative"
   },
   {
+    "officer_id": "982899",
+    "complaint_id": "202607938",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "975868",
     "complaint_id": "202607940",
     "complaint_date": "2026-07-31",
@@ -2165994,6 +2166334,38 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Property damaged",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "952708",
+    "complaint_id": "202607969",
+    "complaint_date": "2026-07-18",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of arrest",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "952708",
+    "complaint_id": "202607969",
+    "complaint_date": "2026-07-18",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "960903",
+    "complaint_id": "202607969",
+    "complaint_date": "2026-07-18",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of arrest",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "960903",
+    "complaint_id": "202607969",
+    "complaint_date": "2026-07-18",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "972841",
@@ -2166146,6 +2166518,54 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "958525",
+    "complaint_id": "202608015",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Property damaged",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "958525",
+    "complaint_id": "202608015",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "973298",
+    "complaint_id": "202608015",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Property damaged",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "973298",
+    "complaint_id": "202608015",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "973298",
+    "complaint_id": "202608015",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "973298",
+    "complaint_id": "202608015",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "933453",
@@ -2166331,6 +2166751,22 @@
     "board_disposition": "Closed - Pending Litigation"
   },
   {
+    "officer_id": "961103",
+    "complaint_id": "202608155",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "961103",
+    "complaint_id": "202608155",
+    "complaint_date": "2026-07-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "960729",
     "complaint_id": "202608164",
     "complaint_date": "2026-08-06",
@@ -2166507,6 +2166943,30 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "948054",
+    "complaint_id": "202608371",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "968794",
+    "complaint_id": "202608371",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "981249",
+    "complaint_id": "202608371",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "955693",
     "complaint_id": "202608389",
     "complaint_date": "2026-08-09",
@@ -2166547,6 +2167007,14 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "978825",
+    "complaint_id": "202608447",
+    "complaint_date": "2026-07-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "973666",
     "complaint_id": "202608454",
     "complaint_date": "2026-08-11",
@@ -2166569,6 +2167037,22 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of force (verbal or physical)",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "961456",
+    "complaint_id": "202608483",
+    "complaint_date": "2026-06-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980855",
+    "complaint_id": "202608483",
+    "complaint_date": "2026-06-20",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "976985",
@@ -2166601,6 +2167085,30 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "976406",
+    "complaint_id": "202608495",
+    "complaint_date": "2026-08-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "976406",
+    "complaint_id": "202608495",
+    "complaint_date": "2026-08-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Vehicle search",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "976406",
+    "complaint_id": "202608495",
+    "complaint_date": "2026-08-12",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "952791",
@@ -2166641,6 +2167149,38 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "969093",
+    "complaint_id": "202608564",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "969093",
+    "complaint_id": "202608564",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "975962",
+    "complaint_id": "202608564",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "975962",
+    "complaint_id": "202608564",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "982457",
@@ -2166691,11 +2167231,27 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "978796",
+    "complaint_id": "202608716",
+    "complaint_date": "2026-08-17",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Other",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "967166",
     "complaint_id": "202608727",
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "982898",
+    "complaint_id": "202608738",
+    "complaint_date": "2026-08-20",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Other",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "977265",
@@ -2166746,6 +2167302,22 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "935164",
+    "complaint_id": "202608789",
+    "complaint_date": "2026-08-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "975250",
+    "complaint_id": "202608789",
+    "complaint_date": "2026-08-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "968730",
     "complaint_id": "202608804",
     "complaint_date": "2026-08-22",
@@ -2166768,6 +2167340,14 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "976664",
+    "complaint_id": "202608897",
+    "complaint_date": "2026-08-24",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Complaint Withdrawn"
   },
   {
     "officer_id": "959051",
