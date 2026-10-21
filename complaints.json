@@ -1943222,8 +1943222,8 @@
     "fado_type": "Force",
     "allegation": "Pepper spray",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Forfeit vacation 10 days / Command Discipline B"
   },
   {
     "officer_id": "958706",
@@ -2096917,7 +2096917,9 @@
     "complaint_date": "2025-04-19",
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of force (verbal or physical)",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "No Disciplinary Action-DUP",
+    "penalty_desc": "No penalty"
   },
   {
     "officer_id": "975265",
