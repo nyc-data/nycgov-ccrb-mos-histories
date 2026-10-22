@@ -2096295,7 +2096295,9 @@
     "complaint_date": "2025-04-20",
     "fado_type": "Force",
     "allegation": "Physical force",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "No Disciplinary Action-DUP",
+    "penalty_desc": "No penalty"
   },
   {
     "officer_id": "970747",
@@ -2099097,7 +2099099,9 @@
     "complaint_date": "2025-04-22",
     "fado_type": "Abuse of Authority",
     "allegation": "Entry of Premises",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "No Disciplinary Action-DUP",
+    "penalty_desc": "No penalty"
   },
   {
     "officer_id": "961465",
