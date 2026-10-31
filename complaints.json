@@ -1749082,8 +1749082,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Forcible Removal to Hospital",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "957452",
@@ -1749092,8 +1749092,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
     "board_disposition": "Substantiated (Formalized Training)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "957452",
@@ -1749102,8 +1749102,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "957452",
@@ -1749136,8 +1749136,8 @@
     "fado_type": "Untruthful Statement",
     "allegation": "Misleading official statement",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "958237",
@@ -1774487,8 +1774487,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 15 days"
   },
   {
     "officer_id": "951522",
@@ -1774497,8 +1774497,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 15 days"
   },
   {
     "officer_id": "951522",
@@ -1774507,8 +1774507,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 15 days"
   },
   {
     "officer_id": "951522",
@@ -1774525,8 +1774525,8 @@
     "fado_type": "Offensive Language",
     "allegation": "Gender",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 15 days"
   },
   {
     "officer_id": "951522",
@@ -1774535,8 +1774535,8 @@
     "fado_type": "Offensive Language",
     "allegation": "Other",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 15 days"
   },
   {
     "officer_id": "952713",
@@ -1785490,8 +1785490,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide name",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 5 days / Command Discipline A"
   },
   {
     "officer_id": "956011",
@@ -1785500,8 +1785500,8 @@
     "fado_type": "Untruthful Statement",
     "allegation": "Misleading official statement",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 5 days / Command Discipline A"
   },
   {
     "officer_id": "964193",
@@ -1869121,8 +1869121,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Sex Miscon (Sexual Harassment, Gesture)",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "957452",
@@ -1869139,8 +1869139,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Action",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "957452",
@@ -1869149,8 +1869149,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Formalized Training)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "957452",
@@ -1869167,8 +1869167,8 @@
     "fado_type": "Offensive Language",
     "allegation": "Gender",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "960534",
@@ -1994755,8 +1994755,7 @@
     "fado_type": "Force",
     "allegation": "Hit against inanimate object",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Not guilty"
   },
   {
     "officer_id": "971264",
