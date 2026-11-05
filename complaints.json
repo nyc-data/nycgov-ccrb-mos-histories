@@ -1962686,8 +1962686,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Forfeit vacation 10 days / Command Discipline B"
   },
   {
     "officer_id": "959920",
@@ -1962704,8 +1962704,8 @@
     "fado_type": "Untruthful Statement",
     "allegation": "False official statement",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Forfeit vacation 10 days / Command Discipline B"
   },
   {
     "officer_id": "959758",
