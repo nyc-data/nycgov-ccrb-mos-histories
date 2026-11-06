@@ -1747261,8 +1747261,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 5 days / Formalized Training"
   },
   {
     "officer_id": "965910",
@@ -1747279,8 +1747279,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Search of Premises",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 5 days / Formalized Training"
   },
   {
     "officer_id": "965910",
@@ -1747305,8 +1747305,8 @@
     "fado_type": "Force",
     "allegation": "Gun pointed",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Not guilty",
+    "penalty_desc": "Forfeit vacation 5 days / Formalized Training"
   },
   {
     "officer_id": "965910",
@@ -1766434,8 +1766434,7 @@
     "fado_type": "Force",
     "allegation": "Gun pointed",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU Dismissed",
-    "penalty_desc": "Warned and admonished"
+    "nypd_disposition": "APU Dismissed"
   },
   {
     "officer_id": "961181",
