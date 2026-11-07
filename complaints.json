@@ -1899241,8 +1899241,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1899259,8 +1899259,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1899269,8 +1899269,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of force (verbal or physical)",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1899279,8 +1899279,8 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "969890",
@@ -1912947,8 +1912947,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1912957,8 +1912957,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1912975,8 +1912975,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1912985,8 +1912985,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Search (of person)",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1912995,8 +1912995,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of force (verbal or physical)",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1913005,8 +1913005,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "965405",
@@ -1913015,8 +1913015,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 10 days"
   },
   {
     "officer_id": "969890",
