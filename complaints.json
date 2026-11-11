@@ -1595711,8 +1595711,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "954237",
@@ -1595721,8 +1595721,8 @@
     "fado_type": "Offensive Language",
     "allegation": "Gender Identity",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "945665",
@@ -2106802,7 +2106802,7 @@
     "complaint_date": "2025-05-15",
     "fado_type": "Abuse of Authority",
     "allegation": "Unlawful Summons",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Formalized Training)"
   },
   {
     "officer_id": "972959",
