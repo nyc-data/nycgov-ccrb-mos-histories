@@ -1664988,8 +1664988,8 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "963224",
@@ -1664998,8 +1664998,8 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Dismissed",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "963742",
@@ -2148900,6 +2148900,30 @@
     "board_disposition": "Complaint Withdrawn"
   },
   {
+    "officer_id": "979915",
+    "complaint_id": "202512864",
+    "complaint_date": "2025-12-21",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Miscellaneous - Subject Terminated"
+  },
+  {
+    "officer_id": "979915",
+    "complaint_id": "202512864",
+    "complaint_date": "2025-12-21",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Miscellaneous - Subject Terminated"
+  },
+  {
+    "officer_id": "979915",
+    "complaint_id": "202512864",
+    "complaint_date": "2025-12-21",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Miscellaneous - Subject Terminated"
+  },
+  {
     "officer_id": "965187",
     "complaint_id": "202512866",
     "complaint_date": "2025-12-25",
@@ -2158722,6 +2158746,14 @@
     "board_disposition": "Closed - Pending Litigation"
   },
   {
+    "officer_id": "944816",
+    "complaint_id": "202603213",
+    "complaint_date": "2026-03-16",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "950528",
     "complaint_id": "202603218",
     "complaint_date": "2025-12-11",
@@ -2160567,6 +2160599,22 @@
     "fado_type": "Force",
     "allegation": "Restricted Breathing",
     "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "978838",
+    "complaint_id": "202603803",
+    "complaint_date": "2026-03-27",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "978838",
+    "complaint_id": "202603803",
+    "complaint_date": "2026-03-27",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
   },
   {
     "officer_id": "971974",
@@ -2169764,6 +2169812,46 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "982104",
+    "complaint_id": "202606969",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Miscellaneous - Subject Resigned"
+  },
+  {
+    "officer_id": "982104",
+    "complaint_id": "202606969",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Miscellaneous - Subject Resigned"
+  },
+  {
+    "officer_id": "982104",
+    "complaint_id": "202606969",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Question",
+    "board_disposition": "Miscellaneous - Subject Resigned"
+  },
+  {
+    "officer_id": "982104",
+    "complaint_id": "202606969",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Miscellaneous - Subject Resigned"
+  },
+  {
+    "officer_id": "982104",
+    "complaint_id": "202606969",
+    "complaint_date": "2026-07-10",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Miscellaneous - Subject Resigned"
+  },
+  {
     "officer_id": "942549",
     "complaint_id": "202606972",
     "complaint_date": "2026-07-11",
@@ -2169802,6 +2169890,14 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975264",
+    "complaint_id": "202606994",
+    "complaint_date": "2026-06-20",
+    "fado_type": "Force",
+    "allegation": "Nonlethal restraining device",
+    "board_disposition": "Alleged Victim Unavailable"
   },
   {
     "officer_id": "945436",
@@ -2171162,6 +2171258,14 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "950888",
+    "complaint_id": "202607449",
+    "complaint_date": "2026-07-03",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
   },
   {
     "officer_id": "965313",
@@ -2173237,6 +2173341,14 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "978878",
+    "complaint_id": "202608431",
+    "complaint_date": "2026-07-29",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "972198",
     "complaint_id": "202608444",
     "complaint_date": "2026-08-13",
@@ -2173506,6 +2173618,54 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "956831",
+    "complaint_id": "202608560",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "956831",
+    "complaint_id": "202608560",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "956831",
+    "complaint_id": "202608560",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975911",
+    "complaint_id": "202608560",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975911",
+    "complaint_id": "202608560",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "975911",
+    "complaint_id": "202608560",
+    "complaint_date": "2026-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "971493",
     "complaint_id": "202608561",
     "complaint_date": "2025-09-26",
@@ -2173552,6 +2173712,46 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "959819",
+    "complaint_id": "202608575",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "959819",
+    "complaint_id": "202608575",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "959819",
+    "complaint_id": "202608575",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "959819",
+    "complaint_id": "202608575",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "972684",
+    "complaint_id": "202608575",
+    "complaint_date": "2026-08-01",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "970743",
@@ -2173903,6 +2174103,22 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "957918",
+    "complaint_id": "202608889",
+    "complaint_date": "2026-08-03",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "957918",
+    "complaint_id": "202608889",
+    "complaint_date": "2026-08-03",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "969123",
@@ -2174366,6 +2174582,22 @@
     "board_disposition": "Closed - Pending Litigation"
   },
   {
+    "officer_id": "982140",
+    "complaint_id": "202609081",
+    "complaint_date": "2026-08-__",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
+    "officer_id": "982140",
+    "complaint_id": "202609081",
+    "complaint_date": "2026-08-__",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
     "officer_id": "964777",
     "complaint_id": "202609093",
     "complaint_date": "2026-08-29",
@@ -2174652,6 +2174884,38 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "970793",
+    "complaint_id": "202609167",
+    "complaint_date": "2026-08-11",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "975717",
+    "complaint_id": "202609167",
+    "complaint_date": "2026-08-11",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "979731",
+    "complaint_id": "202609167",
+    "complaint_date": "2026-08-11",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980629",
+    "complaint_id": "202609167",
+    "complaint_date": "2026-08-11",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "973659",
     "complaint_id": "202609172",
     "complaint_date": "2026-08-10",
@@ -2174724,6 +2174988,14 @@
     "board_disposition": "Closed - Pending Litigation"
   },
   {
+    "officer_id": "949172",
+    "complaint_id": "202609181",
+    "complaint_date": "2026-08-10",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "978372",
     "complaint_id": "202609182",
     "complaint_date": "2026-08-10",
@@ -2174738,6 +2175010,54 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "956009",
+    "complaint_id": "202609199",
+    "complaint_date": "2026-08-16",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
+    "officer_id": "956009",
+    "complaint_id": "202609199",
+    "complaint_date": "2026-08-16",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
+    "officer_id": "956009",
+    "complaint_id": "202609199",
+    "complaint_date": "2026-08-16",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
+    "officer_id": "956009",
+    "complaint_id": "202609199",
+    "complaint_date": "2026-08-16",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
+    "officer_id": "969272",
+    "complaint_id": "202609199",
+    "complaint_date": "2026-08-16",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Victim Unidentified"
+  },
+  {
+    "officer_id": "969272",
+    "complaint_id": "202609199",
+    "complaint_date": "2026-08-16",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Victim Unidentified"
   },
   {
     "officer_id": "984164",
@@ -2174802,6 +2175122,22 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "981451",
+    "complaint_id": "202609218",
+    "complaint_date": "2026-09-02",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of force (verbal or physical)",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "981451",
+    "complaint_id": "202609218",
+    "complaint_date": "2026-09-02",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
   },
   {
     "officer_id": "959928",
@@ -2175180,6 +2175516,14 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "973789",
+    "complaint_id": "202609427",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Alleged Victim Unavailable"
+  },
+  {
     "officer_id": "976361",
     "complaint_id": "202609428",
     "complaint_date": "2026-08-16",
@@ -2175284,6 +2175628,30 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "978733",
+    "complaint_id": "202609438",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "979397",
+    "complaint_id": "202609438",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "979397",
+    "complaint_id": "202609438",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complaint Withdrawn"
+  },
+  {
     "officer_id": "981008",
     "complaint_id": "202609443",
     "complaint_date": "2026-09-06",
@@ -2175298,6 +2175666,38 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "953438",
+    "complaint_id": "202609449",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "955255",
+    "complaint_id": "202609449",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "972367",
+    "complaint_id": "202609454",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "977032",
+    "complaint_id": "202609454",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "969227",
@@ -2175372,6 +2175772,158 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "979277",
+    "complaint_id": "202609478",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "979277",
+    "complaint_id": "202609478",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "963159",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969613",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969613",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "969613",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "977143",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "977143",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "977143",
+    "complaint_id": "202609481",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "966106",
+    "complaint_id": "202609486",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Frisk",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "966106",
+    "complaint_id": "202609486",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Property damaged",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "966106",
+    "complaint_id": "202609486",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Question",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "966106",
+    "complaint_id": "202609486",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "966106",
+    "complaint_id": "202609486",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Stop",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "975454",
+    "complaint_id": "202609488",
+    "complaint_date": "2026-08-26",
+    "fado_type": "Force",
+    "allegation": "Vehicle",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "943151",
+    "complaint_id": "202609497",
+    "complaint_date": "2026-08-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "962300",
+    "complaint_id": "202609497",
+    "complaint_date": "2026-08-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "951741",
+    "complaint_id": "202609506",
+    "complaint_date": "2026-08-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "972509",
+    "complaint_id": "202609506",
+    "complaint_date": "2026-08-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "975194",
     "complaint_id": "202609510",
     "complaint_date": "2026-08-24",
@@ -2175401,6 +2175953,22 @@
     "complaint_date": "2026-07-26",
     "fado_type": "Abuse of Authority",
     "allegation": "Seizure of property",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "967360",
+    "complaint_id": "202609514",
+    "complaint_date": "2026-08-26",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "967360",
+    "complaint_id": "202609514",
+    "complaint_date": "2026-08-26",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search of Premises",
     "board_disposition": "Closed - Pending Litigation"
   },
   {
@@ -2175515,6 +2176083,14 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "946410",
+    "complaint_id": "202609613",
+    "complaint_date": "2026-08-12",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "954463",
     "complaint_id": "202609622",
     "complaint_date": "2026-08-27",
@@ -2175528,6 +2176104,14 @@
     "complaint_date": "2026-09-06",
     "fado_type": "Force",
     "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "970596",
+    "complaint_id": "202609632",
+    "complaint_date": "2026-08-26",
+    "fado_type": "Force",
+    "allegation": "Nonlethal restraining device",
     "board_disposition": "Closed - Pending Litigation"
   },
   {
@@ -2175643,6 +2176227,30 @@
     "board_disposition": "Complaint Withdrawn"
   },
   {
+    "officer_id": "983010",
+    "complaint_id": "202609710",
+    "complaint_date": "2026-08-22",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Vehicle search",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "953129",
+    "complaint_id": "202609712",
+    "complaint_date": "2026-08-29",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "953129",
+    "complaint_id": "202609712",
+    "complaint_date": "2026-08-29",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "973896",
     "complaint_id": "202609726",
     "complaint_date": "2026-08-30",
@@ -2175667,6 +2176275,14 @@
     "board_disposition": "Closed - Pending Litigation"
   },
   {
+    "officer_id": "964192",
+    "complaint_id": "202609727",
+    "complaint_date": "2026-09-08",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Vehicle stop",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "977477",
     "complaint_id": "202609728",
     "complaint_date": "2026-09-08",
@@ -2175681,6 +2176297,14 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide name",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "951830",
+    "complaint_id": "202609742",
+    "complaint_date": "2026-08-30",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Uncooperative"
   },
   {
     "officer_id": "967774",
@@ -2175715,6 +2176339,38 @@
     "board_disposition": "Closed - Pending Litigation"
   },
   {
+    "officer_id": "967829",
+    "complaint_id": "202609754",
+    "complaint_date": "2026-08-02",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "967829",
+    "complaint_id": "202609754",
+    "complaint_date": "2026-08-02",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "967829",
+    "complaint_id": "202609754",
+    "complaint_date": "2026-08-02",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "967829",
+    "complaint_id": "202609754",
+    "complaint_date": "2026-08-02",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "968793",
     "complaint_id": "202609759",
     "complaint_date": "2026-08-03",
@@ -2175745,6 +2176401,14 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complaint Withdrawn"
+  },
+  {
+    "officer_id": "980173",
+    "complaint_id": "202609760",
+    "complaint_date": "2026-08-06",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "946905",
@@ -2175851,6 +2176515,22 @@
     "board_disposition": "Complaint Withdrawn"
   },
   {
+    "officer_id": "971223",
+    "complaint_id": "202609843",
+    "complaint_date": "2026-08-31",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "982030",
+    "complaint_id": "202609843",
+    "complaint_date": "2026-08-31",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "976554",
     "complaint_id": "202609848",
     "complaint_date": "2026-09-01",
@@ -2175865,6 +2176545,126 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "978992",
+    "complaint_id": "202609861",
+    "complaint_date": "2026-09-04",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "976756",
+    "complaint_id": "202609863",
+    "complaint_date": "2026-09-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "981005",
+    "complaint_id": "202609863",
+    "complaint_date": "2026-09-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "982485",
+    "complaint_id": "202609863",
+    "complaint_date": "2026-09-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "983355",
+    "complaint_id": "202609863",
+    "complaint_date": "2026-09-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "972652",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "972652",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "973296",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "973296",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "973296",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "975978",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "975978",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Hit against inanimate object",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "975978",
+    "complaint_id": "202609866",
+    "complaint_date": "2026-08-27",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "941118",
+    "complaint_id": "202609871",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "962288",
+    "complaint_id": "202609875",
+    "complaint_date": "2026-08-31",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "945570",
@@ -2175939,6 +2176739,62 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "945281",
+    "complaint_id": "202609920",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "973696",
+    "complaint_id": "202609920",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "974864",
+    "complaint_id": "202609920",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "979211",
+    "complaint_id": "202609922",
+    "complaint_date": "2026-09-06",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980016",
+    "complaint_id": "202609922",
+    "complaint_date": "2026-09-06",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "936277",
+    "complaint_id": "202609925",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "936277",
+    "complaint_id": "202609925",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "972124",
     "complaint_id": "202609926",
     "complaint_date": "2026-07-19",
@@ -2175995,6 +2176851,22 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "964175",
+    "complaint_id": "202609991",
+    "complaint_date": "2026-09-18",
+    "fado_type": "Discourtesy",
+    "allegation": "Action",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "964175",
+    "complaint_id": "202609991",
+    "complaint_date": "2026-09-18",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "981267",
     "complaint_id": "202610009",
     "complaint_date": "2026-09-10",
@@ -2176019,6 +2176891,46 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "977006",
+    "complaint_id": "202610062",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "978503",
+    "complaint_id": "202610062",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "982934",
+    "complaint_id": "202610080",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "982934",
+    "complaint_id": "202610080",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Offensive Language",
+    "allegation": "Other",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "983203",
+    "complaint_id": "202610080",
+    "complaint_date": "2026-09-07",
+    "fado_type": "Discourtesy",
+    "allegation": "Action",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
     "officer_id": "980022",
     "complaint_id": "202610085",
     "complaint_date": "2026-09-19",
@@ -2176065,6 +2176977,126 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "964325",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "964325",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "966002",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "966518",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "966518",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "967367",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "976405",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "976720",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "976720",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "976720",
+    "complaint_id": "202610086",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "959673",
+    "complaint_id": "202610092",
+    "complaint_date": "2026-09-12",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "982861",
+    "complaint_id": "202610100",
+    "complaint_date": "2026-09-13",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "982861",
+    "complaint_id": "202610100",
+    "complaint_date": "2026-09-13",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "983277",
+    "complaint_id": "202610100",
+    "complaint_date": "2026-09-13",
+    "fado_type": "Force",
+    "allegation": "Other",
+    "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "983277",
+    "complaint_id": "202610100",
+    "complaint_date": "2026-09-13",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Unavailable"
   },
   {
     "officer_id": "979728",
@@ -2176123,6 +2177155,14 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "965116",
+    "complaint_id": "202610185",
+    "complaint_date": "2026-09-09",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
     "officer_id": "970961",
     "complaint_id": "202610205",
     "complaint_date": "2026-09-16",
@@ -2176163,6 +2177203,110 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "961873",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "961873",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "961873",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "961873",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "971103",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "971103",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "971103",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "971103",
+    "complaint_id": "202610346",
+    "complaint_date": "2026-09-30",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "978858",
+    "complaint_id": "202610486",
+    "complaint_date": "2026-10-02",
+    "fado_type": "Force",
+    "allegation": "Chokehold",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "978858",
+    "complaint_id": "202610486",
+    "complaint_date": "2026-10-02",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "978858",
+    "complaint_id": "202610486",
+    "complaint_date": "2026-10-02",
+    "fado_type": "Force",
+    "allegation": "Restricted Breathing",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "945538",
+    "complaint_id": "202610495",
+    "complaint_date": "2026-04-07",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Other",
+    "board_disposition": "Alleged Victim Unavailable"
+  },
+  {
+    "officer_id": "967279",
+    "complaint_id": "202610503",
+    "complaint_date": "2025-11-__",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "983373",
     "complaint_id": "202610702",
     "fado_type": "Abuse of Authority",
@@ -2176198,11 +2177342,235 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "971956",
+    "complaint_id": "202610801",
+    "complaint_date": "2026-09-16",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "971956",
+    "complaint_id": "202610801",
+    "complaint_date": "2026-09-16",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "951964",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "951964",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Force",
+    "allegation": "Nonlethal restraining device",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "951964",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Force",
+    "allegation": "Nonlethal restraining device",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "951964",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "974740",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "974740",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "976406",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "976406",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "981426",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "981426",
+    "complaint_id": "202610827",
+    "complaint_date": "2026-09-17",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Complainant Uncooperative"
+  },
+  {
     "officer_id": "948282",
     "complaint_id": "202610894",
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "958340",
+    "complaint_id": "202611014",
+    "complaint_date": "2026-10-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "962932",
+    "complaint_id": "202611014",
+    "complaint_date": "2026-10-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "962932",
+    "complaint_id": "202611014",
+    "complaint_date": "2026-10-05",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "975507",
+    "complaint_id": "202611032",
+    "complaint_date": "2026-09-29",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "975507",
+    "complaint_id": "202611032",
+    "complaint_date": "2026-09-29",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980106",
+    "complaint_id": "202611032",
+    "complaint_date": "2026-09-29",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980040",
+    "complaint_id": "202611048",
+    "complaint_date": "2026-09-28",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Property damaged",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980040",
+    "complaint_id": "202611048",
+    "complaint_date": "2026-09-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980040",
+    "complaint_id": "202611048",
+    "complaint_date": "2026-09-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980324",
+    "complaint_id": "202611048",
+    "complaint_date": "2026-09-28",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Property damaged",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980324",
+    "complaint_id": "202611048",
+    "complaint_date": "2026-09-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "980324",
+    "complaint_id": "202611048",
+    "complaint_date": "2026-09-28",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "977033",
+    "complaint_id": "202611139",
+    "complaint_date": "2026-10-09",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Other",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "977033",
+    "complaint_id": "202611139",
+    "complaint_date": "2026-10-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "977033",
+    "complaint_id": "202611139",
+    "complaint_date": "2026-10-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
+  },
+  {
+    "officer_id": "977033",
+    "complaint_id": "202611139",
+    "complaint_date": "2026-10-09",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "980455",
@@ -2176216,6 +2177584,34 @@
     "complaint_id": "202611247",
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
+    "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "957009",
+    "complaint_id": "202611370",
+    "fado_type": "Discourtesy",
+    "allegation": "Action",
+    "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "961043",
+    "complaint_id": "202611590",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of arrest",
+    "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "971159",
+    "complaint_id": "202611725",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Seizure of property",
+    "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "971159",
+    "complaint_id": "202611725",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of summons",
     "board_disposition": "SRAD Closure"
   }
 ]
