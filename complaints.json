@@ -1878138,8 +1878138,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 3 days / Command Discipline A"
   },
   {
     "officer_id": "967776",
@@ -1878148,8 +1878148,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 3 days / Command Discipline A"
   },
   {
     "officer_id": "967776",
@@ -1878158,8 +1878158,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 3 days / Command Discipline A"
   },
   {
     "officer_id": "967776",
@@ -1878168,8 +1878168,8 @@
     "fado_type": "Discourtesy",
     "allegation": "Word",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 3 days / Command Discipline A"
   },
   {
     "officer_id": "967776",
@@ -1985430,8 +1985430,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
     "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 12 days"
   },
   {
     "officer_id": "972411",
@@ -1985464,8 +1985464,8 @@
     "fado_type": "Force",
     "allegation": "Nonlethal restraining device",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Guilty",
+    "penalty_desc": "Forfeit vacation 12 days"
   },
   {
     "officer_id": "972411",
@@ -2041411,7 +2041411,9 @@
     "complaint_date": "2024-11-17",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "961874",
@@ -2072552,7 +2072554,9 @@
     "complaint_date": "2025-02-09",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "976863",
@@ -2079404,7 +2079408,9 @@
     "complaint_date": "2025-02-23",
     "fado_type": "Discourtesy",
     "allegation": "Word",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "973758",
@@ -2080819,7 +2080825,9 @@
     "complaint_date": "2025-02-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "940982",
@@ -2100481,7 +2100489,9 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Detention",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished)"
   },
   {
     "officer_id": "972062",
@@ -2100505,7 +2100515,9 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "976214",
@@ -2100513,7 +2100525,9 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "976214",
@@ -2100529,7 +2100543,9 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Search (of person)",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "976214",
@@ -2100537,7 +2100553,9 @@
     "complaint_date": "2025-04-08",
     "fado_type": "Abuse of Authority",
     "allegation": "Search (of person)",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "976214",
@@ -2101411,7 +2101429,9 @@
     "complaint_date": "2025-05-01",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished) / Instructions"
   },
   {
     "officer_id": "975245",
@@ -2102275,7 +2102295,9 @@
     "complaint_date": "2025-05-06",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Formalized Training)"
   },
   {
     "officer_id": "968919",
@@ -2102291,7 +2102313,9 @@
     "complaint_date": "2025-05-06",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Formalized Training)"
   },
   {
     "officer_id": "971806",
@@ -2102299,7 +2102323,9 @@
     "complaint_date": "2025-05-06",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Warned and Admonished)"
   },
   {
     "officer_id": "954117",
@@ -2102315,7 +2102341,9 @@
     "complaint_date": "2025-05-07",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.50 days)"
   },
   {
     "officer_id": "955122",
@@ -2102331,7 +2102359,9 @@
     "complaint_date": "2025-05-07",
     "fado_type": "Abuse of Authority",
     "allegation": "Vehicle search",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.50 days)"
   },
   {
     "officer_id": "969177",
@@ -2102339,7 +2102369,9 @@
     "complaint_date": "2025-05-07",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 0.50 days)"
   },
   {
     "officer_id": "951614",
@@ -2103846,7 +2103878,9 @@
     "complaint_date": "2025-05-07",
     "fado_type": "Force",
     "allegation": "Physical force",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "976432",
@@ -2108270,7 +2108304,9 @@
     "complaint_date": "2025-05-07",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - A",
+    "penalty_desc": "Command Discipline - A (Vacation: 1 day)"
   },
   {
     "officer_id": "978202",
@@ -2109378,7 +2109414,9 @@
     "complaint_date": "2025-05-18",
     "fado_type": "Abuse of Authority",
     "allegation": "Entry of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "975788",
@@ -2109426,7 +2109464,9 @@
     "complaint_date": "2025-05-18",
     "fado_type": "Abuse of Authority",
     "allegation": "Entry of Premises",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "959556",
@@ -2109794,7 +2109834,9 @@
     "complaint_date": "2025-05-10",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 1 day) / Formalized Training"
   },
   {
     "officer_id": "968197",
@@ -2109810,7 +2109852,9 @@
     "complaint_date": "2025-05-10",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "Command Discipline - B",
+    "penalty_desc": "Command Discipline - B (Vacation: 1 day) / Formalized Training"
   },
   {
     "officer_id": "963991",
@@ -2120834,7 +2120878,9 @@
     "complaint_date": "2025-04-16",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Formalized Training",
+    "penalty_desc": "Formalized Training"
   },
   {
     "officer_id": "971407",
@@ -2130175,7 +2130221,9 @@
     "complaint_date": "2025-06-25",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Previously Adjudicated",
+    "penalty_desc": "Closed Administratively (Command Discipline - A) / Warned and Admonished (InstructionsInstructions)"
   },
   {
     "officer_id": "956163",
@@ -2130191,7 +2130239,9 @@
     "complaint_date": "2025-06-25",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "Previously Adjudicated",
+    "penalty_desc": "Closed Administratively (Command Discipline - A) / Vacation: 1 day / Instructions"
   },
   {
     "officer_id": "974025",
