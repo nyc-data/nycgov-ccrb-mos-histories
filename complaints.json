@@ -1970472,8 +1970472,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
     "board_disposition": "Substantiated (Charges)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 3 days / Command Discipline A"
   },
   {
     "officer_id": "953714",
@@ -1970589,8 +1970589,8 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
     "board_disposition": "Substantiated (Command Discipline B)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "nypd_disposition": "APU Command Discipline A",
+    "penalty_desc": "Forfeit vacation 3 days / Command Discipline A"
   },
   {
     "officer_id": "975965",
@@ -2110840,7 +2110840,9 @@
     "complaint_date": "2025-05-25",
     "fado_type": "Abuse of Authority",
     "allegation": "Frisk",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "959571",
@@ -2110872,7 +2110874,9 @@
     "complaint_date": "2025-05-25",
     "fado_type": "Abuse of Authority",
     "allegation": "Stop",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "959571",
@@ -2110880,7 +2110884,9 @@
     "complaint_date": "2025-05-25",
     "fado_type": "Abuse of Authority",
     "allegation": "Threat to damage/seize property",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "959571",
@@ -2112066,7 +2112072,9 @@
     "complaint_date": "2025-05-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "929087",
@@ -2112074,7 +2112082,9 @@
     "complaint_date": "2025-05-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "929087",
@@ -2112082,7 +2112092,9 @@
     "complaint_date": "2025-05-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "959069",
@@ -2112162,7 +2112174,9 @@
     "complaint_date": "2025-05-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Formalized Training)"
+    "board_disposition": "Substantiated (Formalized Training)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "959705",
@@ -2112170,7 +2112184,9 @@
     "complaint_date": "2025-05-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "959705",
@@ -2112178,7 +2112194,9 @@
     "complaint_date": "2025-05-27",
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to provide shield number",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "961953",
@@ -2112784,7 +2112802,9 @@
     "complaint_date": "2025-05-29",
     "fado_type": "Abuse of Authority",
     "allegation": "Sex Miscon (Humiliation: fail to cover)",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "967702",
@@ -2112816,7 +2112836,9 @@
     "complaint_date": "2025-05-29",
     "fado_type": "Abuse of Authority",
     "allegation": "Sex Miscon (Humiliation: fail to cover)",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "968158",
@@ -2112848,7 +2112870,9 @@
     "complaint_date": "2025-05-29",
     "fado_type": "Force",
     "allegation": "Physical force",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "968158",
@@ -2112904,7 +2112928,9 @@
     "complaint_date": "2025-05-29",
     "fado_type": "Abuse of Authority",
     "allegation": "Improper use of body-worn camera",
-    "board_disposition": "Substantiated (Command Discipline B)"
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "970006",
@@ -2112928,7 +2112954,9 @@
     "complaint_date": "2025-05-29",
     "fado_type": "Abuse of Authority",
     "allegation": "Sex Miscon (Humiliation: fail to cover)",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "976438",
@@ -2113786,7 +2113814,9 @@
     "complaint_date": "2025-05-28",
     "fado_type": "Abuse of Authority",
     "allegation": "Failure to provide RTKA card",
-    "board_disposition": "Substantiated (Command Discipline A)"
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "950419",
@@ -2114102,9 +2114132,7 @@
     "complaint_date": "2025-05-24",
     "fado_type": "Discourtesy",
     "allegation": "Word",
-    "board_disposition": "Substantiated (Command Discipline A)",
-    "nypd_disposition": "APU - Decision Pending",
-    "penalty_desc": "APU - Decision Pending"
+    "board_disposition": "Substantiated (Command Discipline A)"
   },
   {
     "officer_id": "975769",
@@ -2118347,6 +2118375,14 @@
     "board_disposition": "Within NYPD Guidelines"
   },
   {
+    "officer_id": "974846",
+    "complaint_id": "202505942",
+    "complaint_date": "2025-06-16",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Unfounded"
+  },
+  {
     "officer_id": "973665",
     "complaint_id": "202505945",
     "complaint_date": "2025-06-12",
@@ -2120923,6 +2120959,22 @@
     "board_disposition": "Within NYPD Guidelines"
   },
   {
+    "officer_id": "964729",
+    "complaint_id": "202506202",
+    "complaint_date": "2025-06-21",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "964729",
+    "complaint_id": "202506202",
+    "complaint_date": "2025-06-21",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
     "officer_id": "965754",
     "complaint_id": "202506210",
     "complaint_date": "2025-06-22",
@@ -2121009,6 +2121061,14 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Refusal to process civilian complaint",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "978685",
+    "complaint_id": "202506229",
+    "complaint_date": "2025-06-23",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
   },
   {
     "officer_id": "975725",
@@ -2121727,6 +2121787,86 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "Complainant Uncooperative"
+  },
+  {
+    "officer_id": "943181",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "950188",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "950188",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "957216",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "957216",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "959393",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "959393",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Unable to Determine"
+  },
+  {
+    "officer_id": "959393",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "969748",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "969748",
+    "complaint_id": "202506320",
+    "complaint_date": "2025-06-25",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Within NYPD Guidelines"
   },
   {
     "officer_id": "969175",
@@ -2128814,6 +2128954,46 @@
     "board_disposition": "Within NYPD Guidelines"
   },
   {
+    "officer_id": "933977",
+    "complaint_id": "202507213",
+    "complaint_date": "2025-07-13",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "933977",
+    "complaint_id": "202507213",
+    "complaint_date": "2025-07-13",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Retaliatory summons",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "933977",
+    "complaint_id": "202507213",
+    "complaint_date": "2025-07-13",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Unlawful Summons",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "933977",
+    "complaint_id": "202507213",
+    "complaint_date": "2025-07-13",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
     "officer_id": "907115",
     "complaint_id": "202507221",
     "complaint_date": "2025-07-19",
@@ -2130497,6 +2130677,82 @@
     "board_disposition": "SRAD Closure"
   },
   {
+    "officer_id": "947691",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "947691",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "947691",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of force (verbal or physical)",
+    "board_disposition": "Unfounded"
+  },
+  {
+    "officer_id": "947691",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "947691",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Unable to Determine"
+  },
+  {
+    "officer_id": "947691",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Offensive Language",
+    "allegation": "Disability",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "963671",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "963671",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Forcible Removal to Hospital",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "963671",
+    "complaint_id": "202507575",
+    "complaint_date": "2025-07-31",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Unfounded"
+  },
+  {
     "officer_id": "963177",
     "complaint_id": "202507583",
     "complaint_date": "2025-07-26",
@@ -2130623,6 +2130879,14 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of summons",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "958594",
+    "complaint_id": "202507648",
+    "complaint_date": "2025-06-22",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
   },
   {
     "officer_id": "956611",
@@ -2133588,6 +2133852,62 @@
     "board_disposition": "Victim Unidentified"
   },
   {
+    "officer_id": "951385",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "951385",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of arrest",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "951385",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat to notify ACS",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "955941",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "955941",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Force",
+    "allegation": "Other",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "955941",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Offensive Language",
+    "allegation": "Gender",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "967957",
+    "complaint_id": "202508135",
+    "complaint_date": "2025-07-04",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
     "officer_id": "953851",
     "complaint_id": "202508139",
     "complaint_date": "2025-07-03",
@@ -2135264,6 +2135584,54 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "964700",
+    "complaint_id": "202508245",
+    "complaint_date": "2025-07-11",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Search (of person)",
+    "board_disposition": "Substantiated (Command Discipline A)"
+  },
+  {
+    "officer_id": "964700",
+    "complaint_id": "202508245",
+    "complaint_date": "2025-07-11",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Vehicle search",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "967102",
+    "complaint_id": "202508245",
+    "complaint_date": "2025-07-11",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of arrest",
+    "board_disposition": "Unfounded"
+  },
+  {
+    "officer_id": "967102",
+    "complaint_id": "202508245",
+    "complaint_date": "2025-07-11",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "968372",
+    "complaint_id": "202508245",
+    "complaint_date": "2025-07-11",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Vehicle search",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "968372",
+    "complaint_id": "202508245",
+    "complaint_date": "2025-07-11",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Unfounded"
   },
   {
     "officer_id": "969668",
@@ -2138586,6 +2138954,42 @@
     "fado_type": "Discourtesy",
     "allegation": "Action",
     "board_disposition": "SRAD Closure"
+  },
+  {
+    "officer_id": "976514",
+    "complaint_id": "202508719",
+    "complaint_date": "2025-08-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "976514",
+    "complaint_id": "202508719",
+    "complaint_date": "2025-08-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Interference with recording",
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "976514",
+    "complaint_id": "202508719",
+    "complaint_date": "2025-08-12",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "977006",
+    "complaint_id": "202508719",
+    "complaint_date": "2025-08-12",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)"
   },
   {
     "officer_id": "929696",
@@ -2142172,6 +2142576,114 @@
     "fado_type": "Force",
     "allegation": "Physical force",
     "board_disposition": "Complainant Unavailable"
+  },
+  {
+    "officer_id": "975406",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "975406",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "975406",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Sex Miscon (Humiliation: fail to cover)",
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "975406",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Discourtesy",
+    "allegation": "Word",
+    "board_disposition": "Within NYPD Guidelines"
+  },
+  {
+    "officer_id": "975406",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "979214",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Entry of Premises",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "979214",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Failure to provide RTKA card",
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "979214",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Improper use of body-worn camera",
+    "board_disposition": "Substantiated (Command Discipline A)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "979214",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Sex Miscon (Humiliation: fail to cover)",
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "979214",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Abuse of Authority",
+    "allegation": "Threat of force (verbal or physical)",
+    "board_disposition": "Substantiated (Command Discipline B)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
+  },
+  {
+    "officer_id": "979214",
+    "complaint_id": "202509702",
+    "complaint_date": "2025-08-30",
+    "fado_type": "Force",
+    "allegation": "Physical force",
+    "board_disposition": "Substantiated (Charges)",
+    "nypd_disposition": "APU - Decision Pending",
+    "penalty_desc": "APU - Decision Pending"
   },
   {
     "officer_id": "976532",
@@ -2162102,30 +2162614,6 @@
     "fado_type": "Abuse of Authority",
     "allegation": "Threat of arrest",
     "board_disposition": "SRAD Closure"
-  },
-  {
-    "officer_id": "953957",
-    "complaint_id": "202602845",
-    "complaint_date": "2026-01-14",
-    "fado_type": "Abuse of Authority",
-    "allegation": "Refusal to obtain medical treatment",
-    "board_disposition": "Closed - Pending Litigation"
-  },
-  {
-    "officer_id": "967965",
-    "complaint_id": "202602845",
-    "complaint_date": "2026-01-14",
-    "fado_type": "Abuse of Authority",
-    "allegation": "Refusal to obtain medical treatment",
-    "board_disposition": "Closed - Pending Litigation"
-  },
-  {
-    "officer_id": "971240",
-    "complaint_id": "202602845",
-    "complaint_date": "2026-01-14",
-    "fado_type": "Abuse of Authority",
-    "allegation": "Refusal to obtain medical treatment",
-    "board_disposition": "Closed - Pending Litigation"
   },
   {
     "officer_id": "976924",
